@@ -1,0 +1,15 @@
+body {
+    font-family: system-ui;
+    background: #f06d06;
+    text-align: center;
+  }
+#section {
+    background-color: antiquewhite;
+    border: salmon;
+
+}
+
+#parent {
+    background-color: black;
+    display: flex;
+}
